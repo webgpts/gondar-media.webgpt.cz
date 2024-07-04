@@ -1,0 +1,44 @@
+/**
+ * Note: This is the config style, it is used to configure the whole page.
+ */
+
+:root {
+    /* 🎨 Note: This is a color palette computed by colorful-192x108-16bit-v15palette algorithm */
+
+    /* Note: --palette-0 is The most common color to appear at the bottom of the wallpaper. */
+    --palette-0: #112222;
+    --palette-0-triplet: 17, 34, 34;
+    /* Note: --palette-1 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-1: #66aaff;
+    --palette-1-triplet: 102, 170, 255;
+    /* Note: --palette-2 is 2nd most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-2: #ee6688;
+    --palette-2-triplet: 238, 102, 136;
+    /* Note: --palette-3 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-3: #66aaff;
+    --palette-3-triplet: 102, 170, 255;
+    /* Note: --palette-4 is The most common color to appear at the bottom of the wallpaper. */
+    --palette-4: #112222;
+    --palette-4-triplet: 17, 34, 34;
+    /* Note: --palette-5 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-5: #66aaff;
+    --palette-5-triplet: 102, 170, 255;
+    /* Note: --palette-6 is 2nd most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-6: #ee6688;
+    --palette-6-triplet: 238, 102, 136;
+    /* Note: --palette-7 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-7: #66aaff;
+    --palette-7-triplet: 102, 170, 255;
+    /* Note: --palette-8 is The most common color to appear at the bottom of the wallpaper. */
+    --palette-8: #112222;
+    --palette-8-triplet: 17, 34, 34;
+    /* Note: --palette-9 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-9: #66aaff;
+    --palette-9-triplet: 102, 170, 255;
+    /* Note: --palette-10 is 2nd most satulighted color of the bottom half of the wallpaper which is distant enough (10%) and hue-distant enough (30°) from all other palette colors. */
+    --palette-10: #ee6688;
+    --palette-10-triplet: 238, 102, 136;
+    /* Note: --palette-11 is 1st most satulighted color of the bottom half of the wallpaper which is contrast enough (30%) against the primary color. */
+    --palette-11: #66aaff;
+    --palette-11-triplet: 102, 170, 255;
+}
